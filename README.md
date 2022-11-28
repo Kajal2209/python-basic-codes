@@ -1,5 +1,5 @@
 # python-basic-codes
 
-#by - Kajal Paliwal
+# by - Kajal Paliwal
 
-#This contains some basic codes for beginners in python.
+# This contains some basic codes for beginners in python.👍⭐
